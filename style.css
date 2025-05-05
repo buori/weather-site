@@ -1,0 +1,29 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f8ff;
+  padding: 20px;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  color: #005ea2;
+}
+
+#weather-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 10px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.weather-item {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.weather-item:last-child {
+  border-bottom: none;
+}
