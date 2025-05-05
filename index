@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>날씨 예보 사이트</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>📅 시간대별 날씨 예보</h1>
+  <div id="weather-container">불러오는 중...</div>
+
+  <script src="weather.js"></script>
+</body>
+</html>
